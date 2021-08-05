@@ -20,26 +20,26 @@ SASS    = _revealjs-settings.scss \
 # {{{1 Recipes
 #      =======
 .PHONY : _site
-_site : index.html assets/css/main.scss
+_site : slides/index.html assets/css/main.scss
 	@echo "####################"
 	@docker run --rm -v "`pwd`:/srv/jekyll" \
 		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
-index.html : index.md revealjs.yaml \
+slides/index.html : index.md _revealjs.yaml \
 	revealjs-crossref.yaml references.bib $(SASS) \
 	assets/css/revealjs-main.scss
 	@-mkdir -p $(@D)
-	@$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
+	@$(PANDOC/CROSSREF) -o $@ -d _revealjs.yaml $<
 	@echo $(@D)
 
-.PRECIOUS : assets/css/revealjs-main.scss assets/css/main.scss
-assets/css/%.scss : _sass/%.scss
+.PRECIOUS : assets/css/revealjs-main.scss
+assets/css/revealjs-main.scss : _sass/revealjs-main.scss
 	@-mkdir -p assets/css
 	@cp $< $@
 	@echo "$@ atualizado."
 
 .PHONY : serve
-serve : index.html assets/css/main.scss
+serve : slides/index.html assets/css/main.scss
 	@echo "####################"
 	@docker run --rm -v "`pwd`:/srv/jekyll" \
 		-h "0.0.0.0:127.0.0.1" -p "4000:4000" \

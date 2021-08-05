@@ -7,22 +7,33 @@ date: 2021-08-07
 
 # Concepts fondamentaux #
 
-## Formalisme vs Procéduralisme ##
+## Formaliste vs Procédural ##
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-- Foco no objeto resultante
-- Parte de imagens (visuais ou mentais)
-- Busca atingir uma configuração espacial ou visual definida
-- Objetos simples, claramente delimitados e « completos »
+- Importance du résultat
+- Part d'images réélles ou imaginées
+- Cherche à atteindre une configuration spatiale ou visuelle prédéterminée
+- Objets simples, nettement individualisés et « entiers »
 :::
 ::: {.column width=50%}
-- Foco nos procedimentos de transformação
-- Parte de conceitos
-- Busca dar parâmetros para um processo imprevisível
-- Objetos abertos, em constante evolução e complexos
+- Importance des procédés de transformation
+- Part de concepts et méthodes
+- Cherche à établir des règles pour un processus aux débouchés imprévisibles
+- Objets ouverts, en évolution constante et « complexes »
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="http://www.jornaldesintra.com/wp-content/uploads/2014/03/Picture.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Maison par Raul Lino, début du XXe siècle, représente l'approche
+formaliste de l'architecture traditionnelle, qui vise le résultat
+esthétique d'un édifice singulier plutôt que le procédé de formation des
+tissus urbains.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://journals.openedition.org/crau/docannexe/image/446/img-6.jpg" data-background-position="top"}
 
 # Comment se forme le parcellaire urbain #
 
@@ -30,13 +41,17 @@ date: 2021-08-07
 
 # Transformations du parcellaire urbain #
 
+Stübben fig. 633: aménagement du centre historique de Florence; pt. IV
+ch. 4 redistribution de parcelles
+
 # Reconstituer le parcellaire #
 
+# Conditions particulières #
+
+- Coins de rues
+- Ceintures
+
 # Observations finales #
-
-## {data-background-image="http://www.jornaldesintra.com/wp-content/uploads/2014/03/Picture.jpg"}
-
-## {data-background-image="https://journals.openedition.org/crau/docannexe/image/446/img-6.jpg" data-background-position="top"}
 
 ## {data-background-image="https://d3i71xaburhd42.cloudfront.net/6689601f5d761c85ea8b4be03327a9f3fcb2e48a/8-Figure5-1.png"}
 
@@ -311,11 +326,11 @@ sedimentação e sobreposição de novas ruas (@fig:firenze).
 
 ![Urban development on the former *rossio* of Rio de Janeiro: 100 p. thoroughfare (rua Larga de São Joaquim), 30 p. streets (rua de São Pedro and rua do Sabão) and 25 p. street (cross street), blocks mostly subdivided into 20 p. lots. Detail from Edward Gotto's plan, 1871](https://upload.wikimedia.org/wikipedia/commons/7/7b/Rua_de_S_Pedro_from_the_Gotto_Plan_of_Rio_de_Janeiro_1871_stitched.jpg){#fig:gotto}
 
-![Approved building application on rua de São Pedro, Rio de Janeiro, c. 1903. Arquivo Geral da Cidade do Rio de Janeiro, reproduced by de Paoli [-@paoli:2013outra]](https://upload.wikimedia.org/wikipedia/commons/0/05/Building_on_rua_de_S_Pedro_Rio_de_Janeiro_1903.jpg){#fig:saopedro}
+![Approved building application on rua de São Pedro, Rio de Janeiro, c. 1903. Arquivo Geral da Cidade do Rio de Janeiro, reproduced by @paoli:2013outra](https://upload.wikimedia.org/wikipedia/commons/0/05/Building_on_rua_de_S_Pedro_Rio_de_Janeiro_1903.jpg){#fig:saopedro}
 
 ![Different lot standards before and after metrification in Oporto. Base map by Augusto Carlos Teles Ferreira, 1892](https://upload.wikimedia.org/wikipedia/commons/5/51/Lot_modules_in_Oporto.png){#fig:almada}
 
-![Rental dwellings in São Paulo, ca. 1900. @lemos:1987ecletismo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rental_houses_on_Bento_Freitas_Street_S%C3%A3o_Paulo.png/607px-Rental_houses_on_Bento_Freitas_Street_S%C3%A3o_Paulo.png){#fig:bentofreitas}
+![Rental dwellings in São Paulo, ca. 1900. In Carlos Lemos, 1987](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rental_houses_on_Bento_Freitas_Street_S%C3%A3o_Paulo.png/607px-Rental_houses_on_Bento_Freitas_Street_S%C3%A3o_Paulo.png){#fig:bentofreitas}
 
 ![Two four-cell housing types in Entroncamento, 1925--1928. @paixao:2016bairros](https://i.pinimg.com/originals/32/3c/5a/323c5aaeb43fab8b2c148867baa99102.png){#fig:entroncamento}
 
