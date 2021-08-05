@@ -17,7 +17,7 @@ date: 2021-08-07
 - Objets simples, nettement individualisés et « entiers »
 :::
 ::: {.column width=50%}
-- Importance des procédés de transformation
+- Importance des procédés
 - Part de concepts et méthodes
 - Cherche à établir des règles pour un processus aux débouchés imprévisibles
 - Objets ouverts, en évolution constante et « complexes »
@@ -33,129 +33,83 @@ esthétique d'un édifice singulier plutôt que le procédé de formation des
 tissus urbains.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://journals.openedition.org/crau/docannexe/image/446/img-6.jpg" data-background-position="top"}
-
-# Comment se forme le parcellaire urbain #
-
-# Imposition du parcellaire sur le bâti #
-
-# Transformations du parcellaire urbain #
-
-Stübben fig. 633: aménagement du centre historique de Florence; pt. IV
-ch. 4 redistribution de parcelles
-
-# Reconstituer le parcellaire #
-
-# Conditions particulières #
-
-- Coins de rues
-- Ceintures
-
-# Observations finales #
-
-## {data-background-image="https://d3i71xaburhd42.cloudfront.net/6689601f5d761c85ea8b4be03327a9f3fcb2e48a/8-Figure5-1.png"}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/45/04/60/450460297031ce78a637bf3e99888836.jpg" data-background-size="contain"}
-
-![Léon Krier, *Civitas*, 1983](https://i.pinimg.com/originals/45/04/60/450460297031ce78a637bf3e99888836.jpg){#fig:lk-civitas}
+![Raul Lino, architecte et dessinateur](http://www.jornaldesintra.com/wp-content/uploads/2014/03/Picture.jpg){#fig:lino}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/1b/fc/e4/1bfce44161d5cc5664e755285eece3a2.jpg" data-background-size="contain"}
 
-![Transecto urbano, por Duany, Plater-Zyberk & Co.](https://i.pinimg.com/originals/1b/fc/e4/1bfce44161d5cc5664e755285eece3a2.jpg){#fig:transect-dpz .fullwidth}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/f8/79/72/f8797296c13dc5f771e743e054115039.jpg" data-background-size="contain"}
-
-![Transecto natural, por [DPZ]{.smallcaps}](https://i.pinimg.com/originals/f8/79/72/f8797296c13dc5f771e743e054115039.jpg){#fig:transect-natural .fullwidth}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/95/f0/ee/95f0ee5aa71518677561cb2d5f8307a4.jpg" data-background-size="contain"}
-
-![Transecto urbano, baseado em [DPZ]{.smallcaps}](https://i.pinimg.com/originals/95/f0/ee/95f0ee5aa71518677561cb2d5f8307a4.jpg){#fig:transect-3d .fullwidth}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/a4/2f/52/a42f5240bc645b9435145aa2dd7cb0cd.jpg" data-background-size="contain"}
-
-![Léon Krier, ajuste da arquitetura urbana, 2003](https://i.pinimg.com/originals/a4/2f/52/a42f5240bc645b9435145aa2dd7cb0cd.jpg){#fig:lk-tua}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg" data-background-size="contain"}
-
-![Wangcheng, Kaogongji, *Zhouli*, xilografia século IX a partir de um original do século V a.C.](https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg){#fig:wangcheng}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/c6/62/b0/c662b07a4d4dd37e9eb414810f74a859.jpg" data-background-size="contain"}
-
-![Módulos urbanísticos da cidade ideal chinesa. [Wang Weijen, 2010](http://wwjchinesecities.blogspot.com/2010/09/imperial-chinese-cities-i.html)](https://i.pinimg.com/originals/c6/62/b0/c662b07a4d4dd37e9eb414810f74a859.jpg){#fig:zh-modulos}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/05/70/63/057063136892db0d028f8992f8756b36.gif"}
-
-![Burton-upon-Trent, Inglaterra, *burgage plots* medievais no levantamento cartográfico de 1760](https://i.pinimg.com/originals/05/70/63/057063136892db0d028f8992f8756b36.gif){#fig:but1760}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/50/61/45/506145ecded84e4dad92714ba04aeecd.jpg"}
-
-![Birmingham, Inglaterra, segundo o levantamento de 1731 por William Westley](https://i.pinimg.com/originals/50/61/45/506145ecded84e4dad92714ba04aeecd.jpg){#fig:westley}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/a3/9b/1c/a39b1c784a74b19486a731bafb578ed4.jpg" data-background-position=top}
-
-![Daniel-Charles Trudaine, coordenador, Atlas das estradas da França dito Atlas Trudaine, 1745--1780. Volume da circunscrição de Ruão, fl. 17, Le Vaudreuil. Arquivo Nacional da França [cota CP/F/14/8502](http://www2.culture.gouv.fr/public/mistral/caran_fr?ACTION=CHERCHER&FIELD_98=REF&VALUE_98=ZZ001273)](https://i.pinimg.com/originals/a3/9b/1c/a39b1c784a74b19486a731bafb578ed4.jpg){#fig:trudaine .fullwidth}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/37/6a/12/376a1285766305c402f6bcb210ab06ef.jpg" data-background-size="contain"}
-
-![Planta da cidade de Mileto, Ásia menor grega, replanejada no século [V]{.smallcaps} a.C.](https://i.pinimg.com/originals/37/6a/12/376a1285766305c402f6bcb210ab06ef.jpg){#fig:mileto .marginnote}
+![Transect urbain, par Duany, Plater-Zyberk & Co.](https://i.pinimg.com/originals/1b/fc/e4/1bfce44161d5cc5664e755285eece3a2.jpg){#fig:transect-dpz .fullwidth}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O nome "plano castrense" remete ao *castrum*, o acampamento militar
-romano. No entanto, esse tipo de urbanização está longe de ser
-exclusividade da cultura imperial romana, e sequer foi inventado pelos
-romanos. Ele aparece muito antes, na Grécia do século [V]{.smallcaps}
-a.C., nos planos chamados *hipodâmicos*. Esse nome é uma referência ao
-arquiteto Hipódamo de Mileto, que divulgou e popularizou o uso da planta
-em retícula que já tinha sido usada na sua cidade (@fig:mileto).
+Le transect urbain conçu par Andrés Duany et Elizabeth Plater-Zyberk est
+aussi un exemple d'approche formaliste: la succession de la croissance
+urbaine y est figée dans l'espace et le temps. C'est une solution
+nécessaire à court terme pour enrayer l'étalement suburbain, mais elle
+ne prévoit pas de moyens pour reconnaître la densification progressive
+du tissu urbain.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/2c/70/52/2c7052c309972c4f4b27aaa39efd9280.jpg"}
+## {data-background-image="https://journals.openedition.org/crau/docannexe/image/446/img-6.jpg" data-background-position="top"}
+
+![Saverio Muratori, édition monographique de « Studi per una operante storia di Venezia », 1959](https://journals.openedition.org/crau/docannexe/image/446/img-6.jpg){#fig:operante}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O uso da malha viária em retícula se generaliza na Grécia do período
-Helenístico. Em Priene (@fig:priene), a rigidez do plano desconsidera
-até a forte inclinação do terreno. Essa escolha cria condições
-particulares de inclinação dos lotes e tem impacto no custo das
-construções.
+Étude de Saverio Muratori sur Venise, 1959, point de départ de la
+typologie procédurale.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Priene, cidade grega na Ásia menor. Reconstituição por [Rocío Espín Piñar](https://rocioespin.artstation.com/projects/1nGxEo)](https://i.pinimg.com/originals/2c/70/52/2c7052c309972c4f4b27aaa39efd9280.jpg){#fig:priene .fullwidth}
+# Comment se forme le parcellaire urbain #
+
+## {.unlisted data-background-image="https://journals.openedition.org/gallia/docannexe/image/5147/img-3.jpg"}
+
+![Lattara (actuelle Lattes, Hérault), comptoir gréco-étrusque du [VI]{.smallcaps}^e^ siècle av. J.-C., restitué par [Gailledrat et Vacheret](https://journals.openedition.org/gallia/5147)](https://journals.openedition.org/gallia/docannexe/image/5147/img-3.jpg){#fig:lattara}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/62/92/d5/6292d57c44c5d02aebd54d75f0a1060e.jpg"}
+
+![Lattara, restitué par [Gailledrat et Vacheret](https://journals.openedition.org/gallia/5147)](https://i.pinimg.com/originals/62/92/d5/6292d57c44c5d02aebd54d75f0a1060e.jpg){#fig:lattara-block}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/1c/f1/0e/1cf10eff6b7810a8f4d9b13d11ff6c2b.jpg" data-background-size="contain"}
 
-![Planta reconstituída do *castrum* (forte romano) permanente de Iciniacum, próximo a Theilenhofen, atual Alemanha. Desenho: [Mediatus](https://commons.wikimedia.org/wiki/File:Kastell_Theilenhofen_Iciniacum_(English).png)](https:upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kastell_Theilenhofen_Iciniacum_(English).png/747px-Kastell_Theilenhofen_Iciniacum_(English).png){#fig:theilenhofen .marginnote}
+![Plan restitué du *castrum* d'Iciniacum, près de Theilenhofen, Allemagne. Restitué par [Mediatus](https://commons.wikimedia.org/wiki/File:Kastell_Theilenhofen_Iciniacum_(English).png)](https:upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kastell_Theilenhofen_Iciniacum_(English).png/747px-Kastell_Theilenhofen_Iciniacum_(English).png){#fig:theilenhofen .marginnote}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/da/90/13/da90133689af7874b61ec709e0007226.gif" data-background-size="contain"}
 
-![Acampamento militar temporário de uma legião romana](https://i.pinimg.com/originals/da/90/13/da90133689af7874b61ec709e0007226.gif){#fig:castrum}
+![Campement militaire d'une légion romaine](https://i.pinimg.com/originals/da/90/13/da90133689af7874b61ec709e0007226.gif){#fig:castrum}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/90/06/75/9006756158f52110185ba284fccaefee.jpg"}
 
-![Argentorate, forte romano permanente, atual Estrasburgo, França. Reconstituição: [Jean-Claude Golvin](https://jeanclaudegolvin.com/argentorate-strasbourg/)](https://i.pinimg.com/originals/90/06/75/9006756158f52110185ba284fccaefee.jpg){#fig:argentorate .fullwidth}
+![Argentorate, fort romain permanent, actuelle Strasbourg. Restitué par [Jean-Claude Golvin](https://jeanclaudegolvin.com/argentorate-strasbourg/)](https://i.pinimg.com/originals/90/06/75/9006756158f52110185ba284fccaefee.jpg){#fig:argentorate .fullwidth}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png"}
 
-![Ammaia, Lusitânia romana](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia}
+![Ammaia, Lusitanie romaine](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png"}
 
-![Reconstituição de Ammaia](https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png){#fig:ammaia-aerea .fullwidth}
+![Restitution d'Ammaia](https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png){#fig:ammaia-aerea .fullwidth}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg" data-background-size="contain"}
 
-![Esquema da centuriação romana](https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg){#fig:centuriatio .marginnote}
+![Schéma de la centuriation romaine](https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg){#fig:centuriatio .marginnote}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/69/ad/a1/69ada128dab3549fee10d65cfe1e76a8.jpg" data-background-size="contain"}
 
-![*Ager centuriatus* romano](https://i.pinimg.com/originals/69/ad/a1/69ada128dab3549fee10d65cfe1e76a8.jpg){#fig:ager .marginnote}
+![*Ager centuriatus* romain](https://i.pinimg.com/originals/69/ad/a1/69ada128dab3549fee10d65cfe1e76a8.jpg){#fig:ager .marginnote}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/46/76/b1/4676b1ac3e68270c1559a4851b742782.jpg"}
 
-![Remanescentes da centuriação romana na planície Padana, norte da Itália. Foto de satélite do acervo do [Museo della Centuriazione Romana](https://www.centroculturalealdorossi.it/museo-della-centuriazione-romana/)](https://i.pinimg.com/originals/46/76/b1/4676b1ac3e68270c1559a4851b742782.jpg){#fig:borgoricco}
+![Restes de la centuriação romana sur la plaine padaine, Italie du nord. Photo satellite du [Museo della Centuriazione Romana](https://www.centroculturalealdorossi.it/museo-della-centuriazione-romana/)](https://i.pinimg.com/originals/46/76/b1/4676b1ac3e68270c1559a4851b742782.jpg){#fig:borgoricco}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/78/97/a2/7897a2c3cf1a26fe80fc19b55ad8d312.jpg"}
 
-![Cidade romana de Lambaesis, na atual Argélia. Desenho por [Jean-Claude Golvin]()](https://i.pinimg.com/originals/78/97/a2/7897a2c3cf1a26fe80fc19b55ad8d312.jpg){#fig:lambaesis}
+![Cité romaine de Lambaesis, dans l'Algérie actuelle. Restituée par [Jean-Claude Golvin]()](https://i.pinimg.com/originals/78/97/a2/7897a2c3cf1a26fe80fc19b55ad8d312.jpg){#fig:lambaesis}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/05/70/63/057063136892db0d028f8992f8756b36.gif"}
+
+![Burton-upon-Trent, Inglaterra, *burgage plots* du Moyen Âge visibles sur un plan de 1760](https://i.pinimg.com/originals/05/70/63/057063136892db0d028f8992f8756b36.gif){#fig:but1760}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/50/61/45/506145ecded84e4dad92714ba04aeecd.jpg"}
+
+![Birmingham, Inglaterra, selon le relevé de 1731 par William Westley](https://i.pinimg.com/originals/50/61/45/506145ecded84e4dad92714ba04aeecd.jpg){#fig:westley}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Castelo_de_Vide_plan_13c_en_01.png/1280px-Castelo_de_Vide_plan_13c_en_01.png"}
 
@@ -207,6 +161,59 @@ de comunidades é menos marcada do que na medina.
 
 *Waqf* (mãos-mortas) --- amortização e desamortização.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Esquema de um feudo medieval, em [William R. Shepherd, *Historical Atlas*, 1923](https://commons.wikimedia.org/wiki/File:Plan_mediaeval_manor.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Plan_mediaeval_manor.jpg/693px-Plan_mediaeval_manor.jpg){#fig:manor}
+
+![Reconstructed foundation town plan of Caminha, thirteenth century, author's drawing after [@trindade:2009urbanismo, 157]](https://upload.wikimedia.org/wikipedia/commons/6/66/Caminha_plan_13c_reconstructed_01.png){#fig:caminha}
+
+![Reconstructed modular platting of Caminha, thirteenth century, author's drawing after [@trindade:2009urbanismo, 328]. Units: 1 palmo = 22.5 centimetres and 1 vara = 5 palmos = 1.125 metre](https://upload.wikimedia.org/wikipedia/commons/8/88/Caminha_plan_13c_ideal.png){#fig:caminha-modules}
+
+![Bairro Alto, Lisbon, developed from the sixteenth century. Yellow: vestiges of the original 30 × 60 p. lots from the sixteenth century development; dark red: former aristocratic palaces and civic buildings; pink: urban fabric that cannot be reconstructed to the original sixteenth century module](https://upload.wikimedia.org/wikipedia/commons/0/09/Bairro_alto_lot_modules.png){#fig:chao}
+
+![Plan of Vila Real de Santo António. Drawing by José Sande de Vasconcelos, 1774](https://i.pinimg.com/originals/27/a8/ca/27a8ca3ae165cbbddf812f116a067e37.jpg){#fig:vilareal}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/a3/9b/1c/a39b1c784a74b19486a731bafb578ed4.jpg" data-background-position=top}
+
+![Daniel-Charles Trudaine, coordenador, Atlas das estradas da França dito Atlas Trudaine, 1745--1780. Volume da circunscrição de Ruão, fl. 17, Le Vaudreuil. Arquivo Nacional da França [cota CP/F/14/8502](http://www2.culture.gouv.fr/public/mistral/caran_fr?ACTION=CHERCHER&FIELD_98=REF&VALUE_98=ZZ001273)](https://i.pinimg.com/originals/a3/9b/1c/a39b1c784a74b19486a731bafb578ed4.jpg){#fig:trudaine .fullwidth}
+
+# Imposition du parcellaire sur le bâti #
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/62/92/d5/6292d57c44c5d02aebd54d75f0a1060e.jpg"}
+
+![Lattara, restitué par [Gailledrat et Vacheret](https://journals.openedition.org/gallia/5147)](https://i.pinimg.com/originals/62/92/d5/6292d57c44c5d02aebd54d75f0a1060e.jpg){#fig:lattara-redux}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/2a/b1/06/2ab10681622f3240498286b73c4ec32a.jpg"}
+
+![Lattara, restitué par Jean-Claude Golvin](https://i.pinimg.com/originals/2a/b1/06/2ab10681622f3240498286b73c4ec32a.jpg){#fig:lattara-golvin}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/45/04/60/450460297031ce78a637bf3e99888836.jpg" data-background-size="contain"}
+
+![Léon Krier, *Civitas*, 1983](https://i.pinimg.com/originals/45/04/60/450460297031ce78a637bf3e99888836.jpg){#fig:lk-civitas}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/a4/2f/52/a42f5240bc645b9435145aa2dd7cb0cd.jpg" data-background-size="contain"}
+
+![Léon Krier, architectural tuning of settlements, 2003](https://i.pinimg.com/originals/a4/2f/52/a42f5240bc645b9435145aa2dd7cb0cd.jpg){#fig:lk-tua}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/5d/84/3a/5d843a91635895a6d5d28092318dcd35.png"}
+
+![Léon Krier, occupation suburbaine et urbaine du parcellaire](https://i.pinimg.com/originals/5d/84/3a/5d843a91635895a6d5d28092318dcd35.png){#fig:sub-urban}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/Southern_Portuguese_cell_houses.png" data-background-size="contain"}
+
+![Mediterranean cell house generating traditional house types common in Southern Portugal and Brazil. Middle left: basic cell layouts; top: suburban foursquare and rural farmhouse; bottom: urban narrow house and side corridor townhouses. Author's drawing](https://upload.wikimedia.org/wikipedia/commons/9/9e/Southern_Portuguese_cell_houses.png){#fig:plans}
+
+# Transformations du parcellaire urbain #
+
+Stübben fig. 633: aménagement du centre historique de Florence; pt. IV
+ch. 4 redistribution de parcelles
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/66/85/fc/6685fce724deb4f52fa3e91b5cdc1864.jpg"}
+
+![Saverio Muratori, « Operante storia urbana di Roma »](https://i.pinimg.com/originals/66/85/fc/6685fce724deb4f52fa3e91b5cdc1864.jpg){#fig:operante-roma}
+
+## {data-background-image="https://d3i71xaburhd42.cloudfront.net/6689601f5d761c85ea8b4be03327a9f3fcb2e48a/8-Figure5-1.png"}
+
+![Giuseppe Strappa, Transformations du parcellaire urbain dans le Trastevere, Rome](https://d3i71xaburhd42.cloudfront.net/6689601f5d761c85ea8b4be03327a9f3fcb2e48a/8-Figure5-1.png){#fig:trastevere}
 
 ## {.unlisted}
 
@@ -297,6 +304,23 @@ chinesas ([@fig:tangshi; @fig:changandongshi]) e europeias.
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Plan_mediaeval_manor.jpg/693px-Plan_mediaeval_manor.jpg" data-background-size="contain"}
+
+![Different lot standards before and after metrification in Oporto. Base map by Augusto Carlos Teles Ferreira, 1892](https://upload.wikimedia.org/wikipedia/commons/5/51/Lot_modules_in_Oporto.png){#fig:almada}
+
+# Reconstituer le parcellaire #
+
+![Unexecuted infill subdivision project in the Alto das Cabeças neighbourhood, Ouro Preto, Brazil, 1965. Left: pre-existing conditions; middle: planning application; right: as approved by the National Heritage Institute (Iphan). Redrawn in @salgado:2010ouro after @motta:1987sphan22](https://i.pinimg.com/originals/28/6b/08/286b08420d851e388ac3fd5ada17248c.png){#fig:op-santacasa}
+
+# Conditions particulières #
+
+- Retours d'angle
+- Ceintures
+
+# Observations finales #
+
+# Ceintures #
+
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/05/09/4e/05094e4e8c134f990f5c13ae79dca19e.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -304,37 +328,17 @@ Conversão de um *temenos* (recinto especializado) em tecido urbano mediante
 sedimentação e sobreposição de novas ruas (@fig:firenze).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {.unlisted}
+
 ![Anfiteatro romano de Florença e tecido urbano resultante](https://i.pinimg.com/originals/05/09/4e/05094e4e8c134f990f5c13ae79dca19e.png){#fig:firenze}
-
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Plan_mediaeval_manor.jpg/693px-Plan_mediaeval_manor.jpg" data-background-size="contain"}
-
-![Esquema de um feudo medieval, em [William R. Shepherd, *Historical Atlas*, 1923](https://commons.wikimedia.org/wiki/File:Plan_mediaeval_manor.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Plan_mediaeval_manor.jpg/693px-Plan_mediaeval_manor.jpg){#fig:manor}
-
-![Reconstructed foundation town plan of Caminha, thirteenth century, author's drawing after [@trindade:2009urbanismo, 157]](https://upload.wikimedia.org/wikipedia/commons/6/66/Caminha_plan_13c_reconstructed_01.png){#fig:caminha}
-
-![Reconstructed modular platting of Caminha, thirteenth century, author's drawing after [@trindade:2009urbanismo, 328]. Units: 1 palmo = 22.5 centimetres and 1 vara = 5 palmos = 1.125 metre](https://upload.wikimedia.org/wikipedia/commons/8/88/Caminha_plan_13c_ideal.png){#fig:caminha-modules}
-
-![Mediterranean cell house generating traditional house types common in Southern Portugal and Brazil. Middle left: basic cell layouts; top: suburban foursquare and rural farmhouse; bottom: urban narrow house and side corridor townhouses. Author's drawing](https://upload.wikimedia.org/wikipedia/commons/9/9e/Southern_Portuguese_cell_houses.png){#fig:plans}
-
-![Bairro Alto, Lisbon, developed from the sixteenth century. Yellow: vestiges of the original 30 × 60 p. lots from the sixteenth century development; dark red: former aristocratic palaces and civic buildings; pink: urban fabric that cannot be reconstructed to the original sixteenth century module](https://upload.wikimedia.org/wikipedia/commons/0/09/Bairro_alto_lot_modules.png){#fig:chao}
-
-![Plan of Vila Real de Santo António. Drawing by José Sande de Vasconcelos, 1774](https://i.pinimg.com/originals/27/a8/ca/27a8ca3ae165cbbddf812f116a067e37.jpg){#fig:vilareal}
-
-![Plan of the garrison town of S. José on the Tabiquary river, now town of Taquari, Brazil, by Manoel Vieira Leão, c. 1777. Arquivo Histórico do Exército (Rio de Janeiro)](https://i.pinimg.com/originals/f7/05/94/f7059414bf7196e4fee5e21f8bd14da8.jpg){#fig:taquari}
-
-# Ceintures #
 
 ![Urban development on the former *rossio* of Rio de Janeiro: 100 p. thoroughfare (rua Larga de São Joaquim), 30 p. streets (rua de São Pedro and rua do Sabão) and 25 p. street (cross street), blocks mostly subdivided into 20 p. lots. Detail from Edward Gotto's plan, 1871](https://upload.wikimedia.org/wikipedia/commons/7/7b/Rua_de_S_Pedro_from_the_Gotto_Plan_of_Rio_de_Janeiro_1871_stitched.jpg){#fig:gotto}
 
 ![Approved building application on rua de São Pedro, Rio de Janeiro, c. 1903. Arquivo Geral da Cidade do Rio de Janeiro, reproduced by @paoli:2013outra](https://upload.wikimedia.org/wikipedia/commons/0/05/Building_on_rua_de_S_Pedro_Rio_de_Janeiro_1903.jpg){#fig:saopedro}
 
-![Different lot standards before and after metrification in Oporto. Base map by Augusto Carlos Teles Ferreira, 1892](https://upload.wikimedia.org/wikipedia/commons/5/51/Lot_modules_in_Oporto.png){#fig:almada}
-
 ![Rental dwellings in São Paulo, ca. 1900. In Carlos Lemos, 1987](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rental_houses_on_Bento_Freitas_Street_S%C3%A3o_Paulo.png/607px-Rental_houses_on_Bento_Freitas_Street_S%C3%A3o_Paulo.png){#fig:bentofreitas}
 
 ![Two four-cell housing types in Entroncamento, 1925--1928. @paixao:2016bairros](https://i.pinimg.com/originals/32/3c/5a/323c5aaeb43fab8b2c148867baa99102.png){#fig:entroncamento}
-
-![Unexecuted infill subdivision project in the Alto das Cabeças neighbourhood, Ouro Preto, Brazil, 1965. Left: pre-existing conditions; middle: planning application; right: as approved by the National Heritage Institute (Iphan). Redrawn in @salgado:2010ouro after @motta:1987sphan22](https://i.pinimg.com/originals/28/6b/08/286b08420d851e388ac3fd5ada17248c.png){#fig:op-santacasa}
 
 ![Îlot Léopold, Namur]()
 
