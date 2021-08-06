@@ -3,4 +3,5 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 assets/css/revealjs-main.scss
+Gemfile.lock
 slides/index.html

@@ -1,4 +1,4 @@
 date: "7 août 2021"
 lang: fr
 crossrefYaml: "_crossref.yaml"
-suppress-bibliography: true
+suppress-bibliography: false
