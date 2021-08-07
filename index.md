@@ -3,6 +3,12 @@ title: "Parcellaire urbain et architecture traditionnelle"
 author: "Pedro P. Palazzo"
 subtitle: "École d'été d'architecture traditionnelle de Belgique 2021"
 date: 2021-08-07
+title-slide-attributes:
+  data-background-image: https://hcommons.org/app/uploads/sites/1002372/2021/08/be-namur-1840-10k.jpg
+  data-background-position: top left
+  data-background-size: 110% 110%
+header:
+  overlay_image: https://hcommons.org/app/uploads/sites/1002372/2021/08/be-namur-1840-10k.jpg
 ---
 
 # Concepts fondamentaux {data-background-color="#0f0"}
